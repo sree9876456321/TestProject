@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-02-08T16:04:15 IST" name="Default suite" finished-at="2022-02-08T16:04:15 IST" duration-ms="78">
+    <groups>
+    </groups>
+    <test started-at="2022-02-08T16:04:15 IST" name="Default test" finished-at="2022-02-08T16:04:15 IST" duration-ms="78">
+      <class name="greatestNumber.TestngTest">
+        <test-method signature="GreatestFour()[pri:0, instance:greatestNumber.TestngTest@4278a03f]" started-at="2022-02-08T16:04:15 IST" name="GreatestFour" finished-at="2022-02-08T16:04:15 IST" duration-ms="17" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GreatestFour -->
+      </class> <!-- greatestNumber.TestngTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
